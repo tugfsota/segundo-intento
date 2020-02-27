@@ -1,0 +1,16 @@
+.portada {
+  width: 400px;
+  height: auto;
+  position: relative;
+  margin-left: 35%;
+}
+
+h1 {
+  position: relative;
+  margin-left: 48%;
+}
+
+h3 {
+  position: relative;
+  margin-left: 44%;
+}
